@@ -1,1 +1,1 @@
-# Toph.co-Solution
+Competitive-Programming-Solution
